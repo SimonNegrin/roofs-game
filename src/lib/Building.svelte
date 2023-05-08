@@ -28,7 +28,7 @@
     transform-origin: bottom;
     transform: translateZ(var(--z));
     transform-style: preserve-3d;
-    background-image: url('building_1.jpg');
+    background-image: url('/building_1.jpg');
     background-size: 100% auto;
   }
 
@@ -37,7 +37,7 @@
     bottom: 100%;
     width: 100%;
     height: 25px;
-    background-image: url('guard-rail.png');
+    background-image: url('/guard-rail.png');
     background-size: auto 100%;
   }
 
@@ -50,7 +50,7 @@
     left: 0;
     bottom: 100%;
     transform: rotateX(90deg);
-    background-image: url('floor.jpg');
+    background-image: url('/floor.jpg');
     background-size: cover;
     transform-style: preserve-3d;
   }
@@ -60,7 +60,7 @@
     top: 0;
     width: var(--deep);
     height: 100%;
-    background-image: url('bricks_1.jpg');
+    background-image: url('/bricks_1.jpg');
     background-size: 100px auto;
   }
 

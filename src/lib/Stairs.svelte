@@ -54,7 +54,7 @@
       width: 100%;
       height: 100%;
       background-color: chartreuse;
-      background-image: url('floor.jpg');
+      background-image: url('/floor.jpg');
       background-position: calc(15px * var(--i)) 0;
       filter: brightness(0.5);
     }
@@ -66,7 +66,7 @@
     top: 0;
     height: 100%;
     width: var(--step-deep);
-    background-image: url('bricks_1.jpg');
+    background-image: url('/bricks_1.jpg');
     background-size: 100px auto;
     background-position: calc(10px * var(--i)) 0;
     filter: brightness(0.7);
@@ -91,7 +91,7 @@
     bottom: 100%;
     left: 0;
     background-color: blue;
-    background-image: url('floor.jpg');
+    background-image: url('/floor.jpg');
     background-position: calc(10px * var(--i)) 0;
     width: 100%;
     height: var(--step-deep);
