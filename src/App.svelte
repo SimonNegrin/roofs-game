@@ -52,8 +52,7 @@
     position: relative;
     perspective: 700px;
     perspective-origin: 61% 58%;
-    overflow-y: hidden;
-    overflow-x: scroll;
+    overflow: hidden;
     transform-style: preserve-3d;
   }
 
